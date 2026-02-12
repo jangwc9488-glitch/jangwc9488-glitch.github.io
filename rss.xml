@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+
+<title>자동화 실험 사이트</title>
+<link>https://jangwc9488-glitch.github.io</link>
+<description>네이버 노출 테스트 RSS</description>
+<language>ko</language>
+
+<item>
+  <title>테스트 글 1</title>
+  <link>https://jangwc9488-glitch.github.io/index.html</link>
+  <guid>https://jangwc9488-glitch.github.io/index.html</guid>
+  <pubDate>Wed, 12 Feb 2026 06:00:00 GMT</pubDate>
+  <description>첫 테스트 페이지</description>
+</item>
+
+</channel>
+</rss>
