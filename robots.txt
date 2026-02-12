@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jangwc9488-glitch.github.io/sitemap.xml
